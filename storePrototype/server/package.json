@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "author": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "encodings": "^1.0.0",
+    "express": "^4.15.3",
+    "stripe": "^4.25.0"
+  }
+}
